@@ -9,6 +9,9 @@ body {
     
     
 }
+input{
+  width: 100% !important;
+}
 .content{
   max-width: 700px;
   margin: auto;
